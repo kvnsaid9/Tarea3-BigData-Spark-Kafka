@@ -1,0 +1,4 @@
+pyspark==3.5.8
+kafka-python==3.0.12
+pandas
+matplotlib
